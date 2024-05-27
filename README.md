@@ -1,5 +1,7 @@
 # Autodistribution Script for Google Sheets
 
+![распредпупуп](https://github.com/baranovlad/autodistribution/assets/167073391/e1599975-2821-4ae1-acb6-ad2a373f6991)
+
 ## Overview
 
 The `autodistribution` script is designed to create a new distribution of users based on data from Google Sheets. It analyzes the current user data and settings to create teams based on specified criteria, minimizing repeated participants.
